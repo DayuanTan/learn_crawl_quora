@@ -1,0 +1,696 @@
+questionsanswers
+What is Bitcoin and how does it work? Is it legal? Who's behind it?
+What is Bitcoin?
+Bitcoin is the first global, decentralized currency that allows you to send money from one person to another without involving a third party broker, such as a bank. You only need your computer to make transactions because Bitcoin is fundamentally software.
+As a decentralized currency, Bitcoin isn’t controlled by anyone. It’s open so that anyone can benefit from it.
+You might think that the lack of control could mean chaos, but that’s not true at all. That’s because Blockchain, the technology behind Bitcoin is one of the most accurate and secure systems ever created.
+How Does Bitcoin Work?
+A blockchain is a ledger that keeps records of digital transactions. Instead of having a central administrator, like a bank or the government, blockchain organizes data in batches (What is a blockchain, and why is it growing in popularity?) called blocks. These data batches use cryptographic validation to link themselves together. In other words, each block identifies and references the previous block by a hash value (Hash function - Wikipedia), forming an unbroken chain.
+Blockchain solves two of the most challenging problems of digital transactions (There is a 'game changer' technology on Wall Street and people keep confusing it with bitcoin): controlling the information and avoiding duplication. When a purchase is carried out, the ledger records it and sends it out to the entire network. Computers all over the world then compete to confirm the operation by solving complex math equations. The first to figure out the answer and validate the block receives a reward in Bitcoins (this process is called mining.)
+The validated block is timestamped and added to a chain in chronological order. The entire chain is continually updated so that it’s always an accurate representation of who owns what at any given time.
+Is it Legal?
+The legality of Bitcoin depends on where you’re located. Bitcoin was legalized as a formal method of payment in Japan this year, and India might be next. In most countries, however, it somewhat operates in a gray zone, with no official ban or approval of Bitcoin.
+Who’s Behind it?
+The founder of Bitcoin is Satoshi Nakamoto, an anonymous online alias for a forum poster. The founder remains unknown, and no one truly knows who the actual founder is.
+At the moment, Bitcoin is owned by the community as a whole, as it is an open source initiative, with no single owner behind it. It is a community movement.
+Shameless Plug - I filmed an in-depth video and article on investing in Bitcoin for beginners[1] for anyone interested in profiting from Bitcoin
+
+
+Should I invest in Bitcoin?
+When I first noticed Bitcoin, it was hovering around $11 in 2012. I tried to start mining, but quickly realized my Macbook Pro’s processing power wasn’t sufficient to justify the time and energy it would take to get up and running. I never mined a single Bitcoin, but I did quite a bit of research.
+I rapidly read articles on Bitcoin, its past and its future.
+I watched tutorials on how to mine Bitcoin and the mechanics of its payout system.
+I browsed all the major forums, for opinions from Bitcoin owners.
+This isn’t me trying to brag about my foresight in spotting Bitcoin before it became big. As a technology enthusiast, this was just one of the many tech crazes I explored. Many of these failed quietly or haven’t yet satisfied the hype (3D printing).
+If there was one consensus among Bitcoin owners in 2012, it was that they truly believed in Bitcoin. Enthusiasts foresaw the potential revolutionary impact of a de-centralized currency. Libertarians hoped for an end to the monopoly of the dollar. Despite its problems, the future looked bright, and early adopters invested on that premise.
+Today, many purchase BTC with no basis other than the gargantuan number beside the ticker and an exponential price chart. With every sharp increase, more and more speculators purchase BTC, with nothing but a hunch as vindication. Answers appear on Quora, where writers ‘guarantee’ BTC will rise to $25,000+.
+Yesterday, I talked to someone who purchased 1 BTC, at ~$12,500. He excitedly revealed that he had earned a 25% return within 24 hours, as BTC rose to $16,500. I interrupted to ask what had prompted him to buy BTC in the first place. His only response was that he saw the pattern of BTC’s growth and didn’t believe the profits would end anytime soon.
+My friend is normally a rational, intelligent person, whose opinions I seek and respect. As such, I was astounded to hear his speculation was based solely on a hunch.
+My response was simple. I showed him a chart of an even bigger growth stock than BTC, at the height of the tech bubble in 2000. At the height of its powers, Cisco was the largest company in the world. Like Bitcoin, for over a decade the stock had been exponentially rising, posting a 265,100% return between IPO and peak price.
+But then the party stopped and the bubble burst. From 2000–2002, Cisco lost 88% of its value. The stock never fully recovered, and still lingers as a shadow of its former formidable self.
+Cisco isn’t an isolated example. History is filled with examples of ‘the next best thing’ with an astounding growth record but without the fundamentals to back up these crazy valuations. Tulipmania, the South Sea company and the Mississippi company are just some of these precedents.
+I then asked another simple question, to forget about the share price, and to imagine he could never sell the stock on an exchange. If he had to buy BTC at $16,500 and could never sell it on any exchange, would he be happy to hold BTC, as an investment which he could only use as a currency in shops, as he would the Euro or the US dollar? Would he be happy to use BTC for its intended purpose, not just to make a quick profit.
+I invite you to ask yourself the same question. BTC is currently worth a collective $267 billion. Do you believe that BTC could buy $267 billion worth of items, either online or in brick and mortar stores?
+You may strongly believe BTC will become accepted as a fiat currency, but even then what makes you believe each BTC will be worth more than it is today?
+Is it not already priced into the market?
+Considering the lack of assets or government guarantor to act as collateral, why is BTC worth more than the paper clip on my desk?
+These are all questions you have to ask before purchasing BTC. We’re in the middle of a 9 year bull market, the 2nd longest in history. Markets have been rising so long, they’ve all but forgotten the possibility of a crash. People are buying a ticker, without any consideration for the underlying asset.
+Ultimately, BTC is at its current price because no-one is certain it will go up or down. I believe it's grossly overvalued, and the underlying asset doesn't deserve a value of $267 billion. That's why I can't recommend investing in BTC.
+
+
+Is the cryptocurrency Bitcoin a good idea?
+I Owned Over $500,000 Worth of Bitcoin. Here is What I Learned.
+—
+In 2012 I bought $1,000 worth of Bitcoin at an average price of $5.
+Today, those 200 Bitcoins are worth about $360,000.
+That’s a lot of money and a tremendous return on my original investment. It’s by far the best return of any investment I’ve ever made.
+When I made that first investment, I barely told anyone. I wasn’t keeping a secret or anything, it’s just that at the time Bitcoin was virtually unknown. And if you tried to explain what the cryptocurrency was, you’d just get weird looks.
+“So, you’re telling me you spent $1,000 on a currency that is held in a computer and isn’t recognized by any government?” That was the normal question I got when I rarely brought up the idea of using Bitcoin.
+“Well, yeah. But, it’s much more than that. You see, Bitcoin is decentralized, so it can’t be manipulated by a government. It’s kind of like gold, but you can transfer it over the internet,” I’d tell people.
+“So it’s gold on the internet?” They’d ask.
+“Well, kind of. But, really the most important thing is the Blockchain. That’s the future. Bitcoin just uses the Blockchain,” I’d respond.
+At this point, I’d get a blank stare. So, then I’d move the conversation onto a different topic.
+I was very excited about Bitcoin in 2012. I knew it would have a bright future.
+Then, in 2013 I started to trade Bitcoin. When I say “trade,” it’s not like I was trading baseball cards for bubble gum. I was trading Bitcoin on a cryptocurrency brokerage based out of a foreign country.
+I did very well. I almost doubled my position.
+Today I would have well over $500,000 worth of Bitcoin.
+Source: Coindesk
+Yes, I would have had.
+Remember how I told you that I was trading Bitcoin on a foreign brokerage? Well the US government didn’t like that. Something about me being a US citizen trading cryptocurrencies on a foreign trading platform sounded weird to them.
+The brokerage received a ‘notice’ to cease doing business with US citizens. With that threat, the brokerage froze my account which prevented me from making any trades.
+Then, the brokerage went under.
+Poof! Gone.
+I was devastated.
+Keep in mind, this happened when the price of Bitcoin was still under $100. So, I lost a serious amount of money, but it wasn’t anywhere near what it would have been today.
+At the time, I just chalked it up as a loss. In reality, I only lost my original $1,000. Little did I know that the price of Bitcoin would soar to over $1,800 and my potential holdings would have been worth over half a million dollars today.
+So here is what I learned:
+#1 Bitcoin is exciting. However, the Blockchain is even more interesting.
+#2 Never put all of your assets into one account. That applies to regular fiat currencies, cryptocurrencies, and any other type of asset you hold. You must diversify where you hold your wealth.
+#3 Never underestimate your vulnerability to an outside force. This doesn’t mean you should live in fear, but just be aware that you’re never 100% safe.
+#4 Bitcoin is an excellent answer to fiat currencies that are highly controlled and manipulated. But gold, land, art, and collectibles are also great options. Bitcoin is NOT the ultimate solution.
+#5 The Blockchain (which Bitcoin is built upon) will have a huge impact in the future. Many companies are developing technologies which utilize the Blockchain, so it’s important to learn about how it works now.
+—
+Clearly, I made a lot of mistakes.
+However, hindsight is 20/20 and I would have never guessed what that original $1,000 investment could have turned into.
+Despite this painful learning experience, there is one thing that I can take away more than anything:
+Be open to new ideas and changes.
+When I first invested in Bitcoin, a large majority of people assumed Bitcoin was just a big scam. I’d attribute this assumption due to lack of understanding.
+Learning about Bitcoin and how the Blockchain works was very difficult in the beginning. But, if you take the time to look at the facts with an open mind, you’ll be amazed.
+That’s how I try to approach any new investment.
+(And how I try to approach any new idea in life.)
+
+
+What is Bitcoin (cryptocurrency)?
+Are goats any better than monkeys? It is for you to decide
+The decentralised digital currency Bitcoin hit $17,000 recently. In one day, it gained as much as what it's entire value was at the beginning of 2017. It's very exciting stuff for some people. There's a widespread view that implicitly implies that since bitcoin is a 'digital' construct, those buying and selling them are immune to psychological flaws that humans are prone to. This idea is too ridiculous to even refute.
+Do note that I'm not criticising bitcoin or its underlying blockchain technology. I think these are revolutionary inventions and will eventually have a deeply transformational impact. I'm only talking about how people are going crazy while trading bitcoin right now.
+If you find the idea of trading bitcoins attractive, do read this column that I read decade ago, in November 2007, when the Indian stock markets were in the grip of a similar mania.
+Monkeys, Goats and Markets
+So, there was this village where one day a man appeared and said that he wanted to buy monkeys. He said that he would pay a hundred rupees for one monkey. The villagers caught all the monkeys in the neighbourhood and sold them to him for a hundred rupees each. Soon another man appeared and said that he would pay two hundred rupees for each monkey. But there weren't any more monkeys around. They were all owned by the first man. So the villagers went back to him and said that they wanted to take the monkeys back and return his money. But the monkey owner was unwilling to sell. The villagers raised the price offered to Rs 150 per monkey, then Rs 175 and finally to Rs 199 but the man still didn't want to sell, even though he clearly had no use for the monkeys. Eventually, just to see whether he would sell, they offered him Rs 200 but he still refused.
+The villagers were puzzled by this. Finally, one of them assumed that there must be someone else who was going to come to the village and offer even more money for the monkeys. Convinced that this was the real explanation, they went and offered the man Rs 300 for each monkey and sure enough the man accepted. Joyous at having landed such a good deal, they quickly paid him off before he changed his mind and took possession of the monkeys. The man went away with his money and presumably lived happily ever after. The villagers waited for the next buyer. But they kept waiting and waiting. But no one ever appeared who wanted to buy the monkeys.
+If you think you've guessed the moral of the story, you are wrong because the story isn't over yet. This story isn't quite the same as the monkey story you may have come across in one of those forwarded chain- emails. My version is slightly different. There was another village nearby where a man appeared one day and offered a thousand rupees for a goat. Now, goats are valuable, but it does not cost as much as a thousand rupees a piece, so the villagers happily sold all the goats to this man. A similar thing happened here too. A second man appeared and offered two thousand rupees for each goat. The first man refused to sell at the buying price and eventually the villagers ended up buying back the goats for Rs 3,000 each. Here too, both the men disappeared and no one ever came and offered so much money for a goat again. But there was a difference. Goats aren't monkeys. They can be milked every day and the milk is good for health. In fact I've heard that Gandhiji preferred having goat milk. Even the goat droppings can be used as fuel, though I'm not sure of this. When the goats eventually grow too old to be milked, it can be killed for meat. So, buying goats wasn't a complete disaster for the villagers.
+But the monkey-owners were not so lucky. Since, these weren't demat monkeys, they had to be kept in one's house. The monkeys ate too much, shouted and shrieked all day and sometimes bit people. Eventually, when it became clear that the monkeys were worthless, their owners abandoned them in the forest nearby and tried to forget about their losses. And that's the moral of the story. In the stock markets today, there are good companies that are overpriced and there are worthless companies that are overpriced. If you are going to be a fool and pay absurd prices because you think that a greater fool will appear in the future, make sure you buy a goat and not a monkey.
+This was written in November 2007, but the situation is not very different now in circa December 2017. So if you want to make soaring profits from your investments, do not buy this bitcoin monkey. Also stay away from the monkey stocks in the Indian equity markets. The markets are at a high and there are plenty of monkeys disguised as goats. So, please be cautious!
+
+
+Is bitcoin worth investing in?
+I would not purchase cryptocurrency if i were you. I would purchase the power to generate/mine any cryptocurrency by yourself. Just see my table down there how much profit investments can make you. Think twice.
+What is Bitcoin Cloud Mining and Bitcoin Lending?
+Cloud mining or cloud hashing enables users to purchase mining capacity that of hardware in data centres.
+So far there have only been 2 trusted companies around
+Some examples:
+You may join Hashflare at any time.
+Bitcoin cloud mining enables people to earn Bitcoins without bitcoin mining hardware, bitcoin mining software, electricity, bandwidth or other offline issues.
+Bitcoin cloud mining, sometimes called cloud hashing, enables users to buy the output of Bitcoin mining power from Bitcoin mining hardware placed in remote data centres.
+Then all Bitcoin mining is done remotely in the cloud. This enables the owners to not deal with any of the hassles usually encountered when mining bitcoins such as electricity, hosting issues, heat, installation or upkeep trouble.
+What are Bitcoin Cloud Mining Advantages?
+What are Bitcoin Cloud Mining Disadvantages?
+Best Bitcoin Cloud Hashing Services
+Being listed in this section is NOT an endorsement of these services and is to serve merely as a Bitcoin cloud mining comparison. There have been a tremendous amount of Bitcoin cloud mining scams.
+Hashflare Review: Hashflare offers SHA-256 mining contracts and more profitable SHA-256 coins can be mined while automatic payouts are still in BTC. Customers must purchase at least 10 GH/s.
+Best Bitcoin Cloud Mining Contracts and Comparisons
+Bitcoin cloud mining contracts are usually sold for bitcoins on a per hash basis for a particular period of time and there are several factors that impact Bitcoin cloud mining contract profitability with the primary factor being the Bitcoin price.
+For example, Pay per GHash/s would be 0.0012 BTC / GHs for a 24 month contract.
+Contracts vary from hourly to multiple years. The major factor that is unknown to both parties is the Bitcoin network difficulty and it drastically determines the profitability of the bitcoin cloud hashing contracts.
+Bitcoin network difficulty is a measure of how difficult it is to find a hash below a given target.
+The Bitcoin network has a global block difficulty. Valid blocks must have a hash below this target. Bitcoin mining pools also have a pool-specific share difficulty setting a lower limit for shares.
+The Bitcoin network difficulty changes roughly every two weeks or 2,016 blocks.
+There are all types of cloud mining options for other forms of blockchain technology.
+Best Litecoin Cloud Mining Services and Comparisons
+There are limited options for Litecoin cloud mining contracts. If nothing on the list below meets your needs, you can buy Bitcoin cloud mining contracts (listed above) and simply convert the bitcoins you earn to litecoin.
+Hashflare Review: Hashflare offers scrypt mining contracts with a minimum purchase of 1 MH/s.
+Bitcoin Cloud Services (BCS) Review: Appears to have been a $500,000 Ponzi scam fraud.
+Review: Based on user reports they appear to have halted payouts.
+
+
+Will Bitcoin crash again?
+Bitcoin’s current reward opportunity attract more and more novice investors. Like everything else, Bitcoin prices are also driven by the Law of Supply and Demand. When there is too much Bitcoin demand, while Bitcoin supply is limited, the price of Bitcoin will ultimately rise. Indeed, this was the reasoning in the first part of our 2017 Bitcoin Price forecast.
+Why Bitcoin Price keeps on increasing? Simple reasons
+2017 Bitcoin Price Forecast
+We’ve used double analytic method in our 2017 Bitcoin price forecast. You probably are wondering what is double analytic method, right? Double analytic method is based on supply & demand + technical outlook. Therefore based on 2017 bitcoin price forecast we have looked into where does the Bitcoin demand come from, the volume involved and of course the supply. Additionally, we have used Yagub Rahimov’s Fibonacci wave theory to answer the question of will bitcoin crash.
+If you bought $1000 worth of Bitcoin 7 years ago, you would have now $77 million. So why not to see 1BTC at $1 million in 7 years?
+First and foremost of all, like Gold, Bitcoin price is due to its scarcity. There is not an unlimited supply of it. Hence, when someone like Richard Brandson or Bill Gates comments that they believe in Bitcoin, of course their followers start looking into it and trying to buy whatever they can.
+Will we see 1 BTC = $1 Million?
+Here is a fun fact, if the total population of the US and Europe each owned just 1 BTC the value of Bitcoin would surge above $100,000. Thus we can not rule out a long term possibility that 1 BTC will be $1 Million USD or somewhere there.
+However, there are fundamental issues. Leading world economies all rely on their taxes. With Bitcoin, because you have your anonymity, tax authorities can not really track you. This is indeed what is attracting more Bitcoin demand. This means, Bitcoin demand is also rather high among the criminal world. It is much more easier to transfer $4000 with 1 BTC right now than $4000 via bank wire or any other financial transaction mean. To cut it short, we know where the buttom is at, ZERO. However, 7 year or longer bitcoin price forecast high is $1 million USD or even higher.
+Will Bitcoin Crash?
+Will bitcoin crash and disappear? I’d say most probably not! Is Bitcoin a bubble? At the moment, yes!
+However, there are more and more new technology adoptions and even more Venture Capitals as well as Hedge Funds backing Bitcoin, which is pushing the Bitcoin Price higher and higher. There is just limited number of Bitcoins available. When Bitcoin Mining will come to its end, that is the time Bitcoin Price will start flying high!
+Bitcoin Price Technical forecast
+As we said at the beginning, double analytic method is what we used n our 2017 Bitcoin price forecast. Going back to Bitcoin price technical forecast, in the immediate horizon, we have two resistance zones for Bitcoin. While the main resistance is right on $2847, the second bitcoin price resistance is on $3250.
+To sum it up, the supply and demand equilibrium is at $1600 for 1 BTC, as long as the price is above $1600 the Bitcoin demand will be higher than Bitcoin supply and therefore Bitcoin Prices will be on the rise. Greed is in Human Nature!
+For both the amatuer and professional cryptocurrency traders, make sure that you are properly guided by reliable and expert signals provider.
+
+
+Should I invest in Bitcoin in late 2017?
+Have you heard of Erik Finman?
+The teenage Bitcoin millionaire who started picking up Bitcoin at only $12 a piece back in May 2011, when he was just 12 years old. He received the Bitcoin as a tip from his brother and a $1000 gift from his grandmother. He now reportedly owns 403 Bitcoins, which holds a value of roughly $15,500 where it has accumulated to a stash of $6.2 million and change.
+Bitcoin trading can be very profitable for both professionals and beginners. The market is new, where arbitrage and margin trading is widely available. Compared to other financial currencies, Bitcoin has very little barrier to entry.
+There are various concrete reasons why you SHOULD invest in Bitcoin.
+As a digital asset that serves users online, Bitcoin has many appealing benefits. Some of this is thanks to the Blockchain Technology. It is a strictly monitored process with encrypted transaction and control thus, making this online money a thing for the future.
+In this answer, I will try cover the top 4 benefits of investing in Bitcoin.
+The most well-known benefit of this investment is
+There’s always a pattern when using traditional money to buy yourself a new property, setting up your own business, or buying a new car. One way or another, the process requires a third-party involvement. We are talking lawyers, owners and other external factors such as, delays documentations and extra fees. But that is not the case with Cryptocurrency.
+The blockchain system is similar to a self-rights database. It means, the contract is capable of being design and enforces to remove any involvement of the third-party mentioned before. Moreover, the contract can be customized to complete a certain transaction at a set date at a fraction of any expenses. Yes, you can eliminate any third-party involvement options, in fact, you don’t even need one.
+In short, you are in control of your own money using Cryptocurrency. This is what we call the ‘Decentralized’ system, which means there’s no ‘Central or Federal Government’ regulating it for you. Your transaction is practically immune to any influence from your government and its distinct manipulation.
+Next advantage would be
+2. The risk it holds is lower than traditional currencies.
+In this era, most people rarely have their cash in their possession now. Instead, they have credit cards, debit cards and other payment cards available as their nations method of payment. The thing about these cards are, any purchase you are making, you are giving the end-receiver access to your full-credit line. No matter how small the amount of the transaction is, the fact that you are giving someone your card to gain access to your account is already a form of ‘breach’.
+Cryptocurrency doesn’t work that way. Instead of a ‘pulling’ mechanisms, it ‘pushes’ the amount that needed to be pay or receive to other cryptocurrency holder without any further information needed. Payments are possible without your personal information being tied to you the transaction.
+3. Universality.
+Over the course of payment history, nations worldwide have their differing methods of payments implemented. We have money-goods exchange system and even bartering trade. It is not until traders visited other countries that they found out how to trade items to one another. Thanks to various innovations and developments, we now have multiple methods to trade and exchange moneys worldwide.
+But even with all the upgrades, we are still experiencing problems doing transactions across the globe. There are always currency issues, bank authorizations, unacceptable payment method and some other varying issues experienced by business owners or travelers out there.
+However, Bitcoin is not bound by any of those exchange rates, transaction charges, the interest rates or any other fees applied on any countries.
+4. Personal spending.
+You can use Bitcoin to purchase almost anything! From buying cars to travelling the world.
+In December 2013, a Tesla model S was purchased for a reported 91.4 bitcoins. The dealer, located in California continues to accept Bitcoin as a means of payment. You can also travel the world using Bitcoins! Just head to Cheap Airline Tickets, Airfares & Discount Air Tickets. You are able to purchase flights, hotels, car rentals and cruises. You can even book the whole package.
+Like most things tech, the realm of cryptocurrency can be a bit complex to master and is still new to many. But the advantage of purchasing this currency is surely worth your investment in both time and money.
+That’s why I created Cryptocurrency Secrets.
+This blueprint will show you ways to grow and invest your money with Cryptocurrency – with tried and proven methods.
+Unlike most game plans out there that cover just one method or 1 currency… Cryptocurrency Secrets covers 5! And it has the same methods we use to grow our money.
+You will learn:
+And much more…
+Click here to learn more about this training program.
+
+
+What is Bitcoin mining?
+
+
+How can one invest in Bitcoins?
+I’ll give an unusual answer: get a mortgage.
+Or any large, long term, fiat-denominated loan.
+Over the course of its life, Bitcoin has doubled in value every 8 months, on average. If this trend continues, in a little over 6 years, Bitcoin will be worth more than all the money in the world.
+It does seem unlikely that Bitcoin will completely disrupt fiat, but it also seems remotely possible. Maybe 10–20% probability? If it does happen, fiat will become worthless, and you can easily pay off your mortgage/loan with worthless fiat.
+So by getting a big mortgage, that maybe you were going to get anyway, you’re taking on very little marginal risk. But you’re also getting a 10–20% chance of a (mostly) free house.
+I think that’s actually a better risk/reward tradeoff than buying Bitcoin outright. Bitcoin could collapse, or another crypto could take over, or your crypto could be stolen. But if you’re getting a loan you were going to get anyway, you’re taking on very little risk with a chance of huge upside.
+EDIT: I’ve had a few people ask if I’m saying you should take out a mortgage to buy Bitcoin. NO. That’s not what I’m saying. I think that would be too much leverage. If Bitcoin crashes in price, this could get you in big trouble.
+What I’m saying is: if you believe there’s a chance that Bitcoin could take over the world, then you also believe there’s a chance the dollar will collapse. So instead of buying Bitcoin, why not short the dollar? A great way to do that is to get a mortgage.
+
+
+How can one mine Bitcoins? What are the investment returns?
+Cloud mining or cloud hashing enables users to purchase mining capacity that of hardware in data centres.
+So far there is only one trusted company around
+Hashflare offers many different contracts and cloud mining packages. Check them out!
+BREAKING DOWN 'Bitcoin Mining'
+The amount of new bitcoin released with each mined block is called the block reward. The block reward is halved every 210,000 blocks, or roughly every 4 years. The block reward started at 50 in 2009, is now 25 in 2014, and will continue to decrease. This diminishing block reward will result in a total release of bitcoin that approaches 21 million.
+How hard are the puzzles involved in mining? Well, that depends on how much effort is being put into mining across the network. The difficulty of the mining can be adjusted, and is adjusted by the protocol every 2016 blocks, or roughly every 2 weeks. The difficulty adjusts itself with the aim of keeping the rate of block discovery constant. Thus if more computational power is employed in mining, then the difficulty will adjust upwards to make mining harder. And if computational power is taken off of the network, the opposite happens. The difficulty adjusts downward to make mining easier.
+In the earliest days of Bitcoin, mining was done with CPUs from normal desktop computers. Graphics cards, or graphics processing units (GPUs), are more effective at mining than CPUs and as Bitcoin gained popularity, GPUs became dominant. Eventually, hardware known as an ASIC, which stands for Application-Specific Integrated Circuit, was designed specifically for mining bitcoin. The first ones were released in 2013 and have been improved upon since, with more efficient designs coming to market. Mining is competitive and today can only be done profitably with the latest ASICs. When using CPUs, GPUs, or even the older ASICs, the cost of energy consumption is greater than the revenue generated.
+Security of the Bitcoin Network
+Bitcoin mining is decentralized. Anyone with an internet connection and the proper hardware can participate. The security of the Bitcoin network depends on this decentralization since the Bitcoin network makes decisions based on consensus. If there is disagreement about whether a block should be included in the block chain, the decision is effectively made by a simple majority consensus, that is, if greater than half of the mining power agrees.
+If an individual person or organization has control of greater than half of the Bitcoin network's mining power, then they have the power to corrupt the block chain. The concept of someone controlling more than half of the mining power and using it to corrupt the block chain is known as a "51% attack". How costly such an attack would be to carry out depends largely on how much mining power is involved in the Bitcoin network. Thus the security of the Bitcoin network depends in part on how much mining power is employed.
+The amount of mining power that gets used in the network depends directly on the incentives miners have, that is, the block reward and transaction fees.
+Block Reward
+The amount of new bitcoin released with each mined block is called the block reward. The block reward is halved every 210,000 blocks, or roughly every four years. The block reward started at 50 bitcoin in 2009, halved to 25 bitcoin in 2012, and halved again to 12.5 in 2016. This diminishing block reward will result in a total release of bitcoin that approaches 21 million. According to current Bitcoin protocol, 21 million is the cap and no more will be mined after that number has been attained.
+As of today, block rewards provide the vast majority of the incentive for miners. At the time of writing, for the previous 24 hours, transaction fees represented 0.3% of mining revenue.
+Transaction Fees
+As the block reward diminishes over time, eventually approaching zero, the miners will be less incentivized to mine bitcoin for the block reward. This could be a major security problem for Bitcoin, unless the incentives provided by the block reward are replaced by transaction fees.
+Transaction fees are some amount of Bitcoin that are included in a transaction as a reward for the miner who mines the block in which the transaction is included. Transaction fees are voluntary on the part of the person sending a transaction. Whether or not a transaction is included in a block by a miner is also voluntary. Thus, users sending transactions can use transaction fees to incentive miners to verify their transactions. The version of the Bitcoin client released by the core development team, which can be used to send transactions, has fee minimum rules by default.
+Mining Difficulty
+How hard is it to mine Bitcoins? Well, that depends on how much effort is being put into mining across the network. Following the protocol laid out in the software, the Bitcoin network automatically adjusts the difficulty of the mining every 2016 blocks, or roughly every two weeks. It adjusts itself with the aim of keeping the rate of block discovery constant. Thus if more computational power is employed in mining, then the difficulty will adjust upwards to make mining harder. And if computational power is taken off of the network, the opposite happens. The difficulty adjusts downward to make mining easier.
+The higher the difficulty level, the less profitable mining is for miners. Thus, the more people mining, the less profitable mining is for each participant. The total payout depends on the price of Bitcoin, the block reward, and the size of the transaction fees, but the more people mining, the smaller the slice of that pie each person gets.
+Mining Hardware
+Anyone with access to the internet and suitable hardware can participate in mining. In the earliest days of Bitcoin, mining was done with CPUs from normal desktop computers. Graphics cards, or graphics processing units (GPUs), are more effective at mining than CPUs and as Bitcoin gained popularity, GPUs became dominant. Eventually, hardware known as an ASIC (which stands for Application-Specific Integrated Circuit) was designed specifically for mining Bitcoin. The first ones were released in 2013 and have been improved upon since, with more efficient designs coming to market. Today, mining is so competitive, it can only be done profitably with the latest ASICs. When using CPUs, GPUs, or even the older ASICs, the cost of energy consumption is greater than the revenue generated.
+As ASICs are advanced and more participants enter the mining space, the difficulty has shot up exponentially. A lot of this activity has been incentivized by the large price increase Bitcoin experienced in 2013 and speculation that the price may rise further. There is also political power within the Bitcoin ecosystem that comes with controlling mining power, since that mining power essentially gives you a vote in whether to accept changes to the protocol.
+There are many companies which make mining hardware. Some of the more prominent ones are Bitfury, HashFast, KnCMiner and Butterfly Labs. Companies such as MegaBigPower, CloudHashing, and CEX.io also allow customers to lease hosted mining hardware.
+Mining Pools
+Mining rewards are paid to the miner who discovers a solution to the puzzle first, and the probability that a participant will be the one to discover the solution is equal to the portion of the total mining power on the network. Participants with a small percentage of the mining power stand a very small chance of discovering the next block on their own. For instance, a mining card that one could purchase for a couple thousand dollars would represent less than 0.001% of the network's mining power. With such a small chance at finding the next block, it could be a long time before that miner finds a block, and the difficulty going up makes things even worse. The miner may never recoup their investment. The answer to this problem is mining pools. Mining pools are operated by third parties and coordinate groups of miners. By working together in a pool and sharing the payouts amongst participants, miners can get a steady flow of bitcoin starting the day they activate their miner. Statistics on some of the mining pools can be seen on Blockchain.info.
+Electricity Costs
+The main operational costs for miners are the hardware and the electricity cost, both for running the miners but also for providing adequate cooling and ventilation. Some major mining operations have been purposely located near cheap electricity. The largest mining operation in North America, run by MegaBigPower, is located on by the Columbia River in Washington State, where hydroelectric power is plentiful and electricity prices are the lowest in the nation. And CloudHashing runs a large mining operation in Iceland, where electricity generated from hydroelectric and geothermal power sources is also renewable and cheap, and where the cold northern climate helps provide cooling.
+Regulation
+Earlier this year, the IRS issued tax guidance regarding Bitcoin and said that income from mining could constitute self-employment income and be subjected to tax. FinCEN, the Financial Crimes Enforcement Network, is a bureau of the U.S. Treasury that collects and analyzes data on financial transactions with the aim of fighting financial crimes, especially money laundering and terrorist financing. FinCEN has issued guidance saying that bitcoin miners are not considered Money Transmitters under the Bank Secrecy Act and recently clarified that providers of cloud mining services are also not considered Money Transmitters.
+The Bottom Line
+Bitcoin mining is the means by which new Bitcoin is brought into circulation, the total of which is to be capped at 21 million BTC. Miners are in an arms race to deploy the latest bitcoin mining chips and often choose to locate near cheap electricity. As more computing power is used in mining, the difficulty of the puzzles increases, keeping profitability in check.
+
+
+Is investing in Bitcoin a good idea?
+Bitcoin is making news as its price makes new highs every day. Before you plan to invest in Bitcoin you should explore the below important points:
+The purpose of investments should be to achieve your financial goals. If you have an adequate income, then there are several investment instruments available in the market that can help you achieve your goals easily.
+It is therefore not recommended that you take unnecessary risks by investing in an instrument which is not yet verified, tested or backed by the government. Until the government clears its stand, it’s better to stick with the traditional investments rather than investing in Bitcoin.
+Additional Reading:
+This is all you need to know about Bitcoin and how it works
+A Peep Into The Future Of Fintech
+If you have any other Personal Finance queries, you can follow and tweet out and I'll be happy to answer them for you - Adhil Shetty (@adhilshetty) | Twitter 
+
+
+Is this a right time to buy Bitcoin?
+NOTE: This post is NOT Buy or Sell advise. Cryptocurrencies are very volatile, are subject to legal / regulatory risk and also carry a risk of permanent capital destruction.
+Bitcoin went past $3000 as “segregated witness” or Segwit, the latest version of its open source code is days from locking in to the nodes on its blockchain on August 8th, 2017.
+Segwit aims to solve Bitcoin’s long standing scaling problem and serves as a positive fundamental trigger to its price. For stock investors, imagine capacity expansion without the capex. True to fashion, the market bought the rumor before the news and pushed the price above the last all time high of $3019 in June.
+This move caught many technical analysts by surprise, as Bitcoin – honey badgerlike – continues to shrug off bad news and humiliate market oracles. I think what is most significant is that the long-term underlying bullish trend has been confirmed this week, which means the odds of a major Bitcoin “crash” have plummeted and a $5000 to $10,000 Bitcoin price is now in sight.
+Suprise! While the RSI and other momentum indicators suggested a correction the breakout in the simple moving average confirmed the direction of the trend.
+So is it too late to enter? Bitcoin has no intrinsic value. The fair price is unknown. The market price is determined by demand and supply. It has gone up too much too fast. It’s in a bubble. All of this fear, uncertainty and doubt is legitimate but not in the ways one might think.
+Bubble valuations (aka the Price has gone up too Fast!)
+Every generation has a bubble. Tulips. Dotcom. Unicorns. Cryptocurrencies are the bubble of the coming generation. We are in very early stages of price discovery of a completely new asset class which is still dismissed by a majority of old street finance as a pyramid scheme or vaporware. Banks buy bitcoins only to pay off future ransomeware attacks. Hedge funds are only now beginning to show interest. Equity investors are still to enter. If it is a bubble, it is a bubble that is yet to grow until it floats regal and mountainlike before the thunderous pop.
+So has the price gone up too much? Bitcoin was in a bear market from 2014 to 2016 and the anchoring/recency bias makes us fear mean reversion.
+Here are Bitcoin’s historical returns since Satoshi Nakamoto wrote the famous white paper:
+2011: +1500%
+2012: +399%
+2013: +5400%
+2014: -43%
+2015: +37%
+2016: +130%
+2017: +220%
+Notice the trend? The trend is your friend and Bitcoin can be the long trade that changes your life.
+What are you buying when you buy Bitcoin?
+Don’t buy what you don’t understand. For the non tech savvy, the blockchain is not an easy concept to comprehend. Buying Bitcoins is roughly analogous to buying:
+Besides at just 21 million in total supply, with scope for no more to be created, Bitcoin is scarce
+Bitcoin is an Experiment. A community without a leader. A cult in thrall to the idea of a world without centralized authority.
+An absurdity about this peer-to-peer currency meant to act as store of value is that the developers of the original protocol were idealistic libertarians. Satoshi Nakamoto, the founder of Bitcoin is a myth. No one knows who the real Satoshi Nakamoto is because he chose to shun recognition and remain anonymous (with his stash of Bitcoins worth billions now of-course). In spite of its de-centralized nature, there is an almost cultlike ownership of the protocol by its many participants many of whom are not in it for the money but to achieve their goal of disrupting the financial status quo and making payments truly peer-to-peer without trusted third parties. Their counter is that the trusted third parties like banks could turn untrustworthy and rogue as banks and governments are wont to do. Governments can issue currency as legal tender and declare them illegal overnight. Governments can confiscate your assets and nullify your property rights.
+Remember George Orwell’s 1984?
+‘It exists!’ he cried.‘No,’ said O’Brien.He stepped across the room. There was a memory holein the opposite wall. O’Brien lifted the grating. Unseen, thefrail slip of paper was whirling away on the current of warmair; it was vanishing in a flash of flame. O’Brien turned awayfrom the wall.‘Ashes,’ he said. ‘Not even identifiable ashes. Dust. It doesnot exist. It never existed.’‘But it did exist! It does exist! It exists in memory. I rememberit. You remember it.’‘I do not remember it,’ said O’Brien.
+Memory holes were furnaces in which the Government burnt all records of a person’s existence. The distributed ledger of the blockchain is the exact opposite of the dystopian memory hole. Every transaction, every record of your property rights will be recorded on every node on the blockchain. O’Brien and his cronies cannot destroy the memory of you – without destroying every node. Indestructible memories interred in memories like fractals.
+This radical de-centralization is an altruistic idea that makes your investment in Bitcoin a part of a militant albeit greater cause.
+A dyed-in-the-wool speculator may ask – why do I care for these outlandish ideas or cultish early adopters? Remember these early adopters are like promoters in a listed company. The early developers and miners fanatically hold on to a significant stash of the total Bitcoins in supply. Block and wallet data shows they have been hoarding and not selling – which reduces the potential downside risk on your investment and leads to upward pressure on the price. This is the same affect as gold and silver that for the most part ar no longer in circulation except on exchanges.
+Bitcoin is Honey-Badger
+Bitcoin is thick skinned, like a honey-badger. A great humiliator of its naysayers. Back in June people predicted a hard fork of the main chain would lead to uncertainty, following it up with platitudes that the market hates uncertainty. But what the market hates most of all is people who are certain they know how the market will behave (I am guilty and have burnt my fingers) and Bitcoin has proved that in spectacular fashion.
+The hard fork happened and Bitcoin’s price stayed firm in the 2700+ USD range. It achieved the opposite of what was predicted that the market cap would be reduced by the market capitalization created by the forked currency, i.e Bitcoin Cash. The fork actually made existing Bitcoin holders richer by giving them a free Bitcoin Cash for each Bitcoin in their account creating $7 billion of helicopter money overnight.
+I will leave you with the below links and images to stress the survivability of Bitcoin and how the potential of this new asset class is still not properly understood.
+Bitcoin Declared Dead 140+ Times and Counting
+The KISS of Altcoins. Keep it Simple Stupid
+While investing in Cryptoassets other than Bitcoin – or altcoins – it helps to keep it simple. What I like about Bitcoin is it doesn’t pretend to be anything more than a scarce store of value and does a great job at it (de-centralized control, scarcity, fungibility, increasing difficulty to mine). Monero and Litecoin similarly are good projects that seek to be stores of value.
+Personally for me, Ethereum seems like a complicated protocol and investment albeit with great leadership and community.
+Ethereum’s main challenges are –
+1. Security (It’s turing complete)
+2. Scalability issues
+3. Untested new design
+3. Economics (Confusing inflation schedules, ICOs)
+Bitcoin has lower downside risk from hacks and inflation. It can imitate ethereum’s “smart-contracts” functionality using a concept called sidechains.
+Apart from Bitcoin, which is king, in my strictly personal opinion I see significant scope of adoption for the following protocols:
+Monero – What Bitcoin used to be, only more secure. Use in the dark web/grey market business offers some downside price protection.
+Litecoin – The silver to Bitcoin’s gold. Runs on Bitcoin’s chain. Popular with miners and Bitcoin users. Fast. Solid development team.
+NEO/Antshares – Technically most sound, on paper. Backed by corporates. KYC compliant, which is a huge deal in China.
+Ethereum – Its popular with the South Koreans (the early adopters of all cryptocurrencies) and is being promoted as an alternative to Bitcoin, which I do not believe it is.
+Risks
+Price discovery is a work in progress. Cryptocurrencies are illiquid, unregulated, listed on limited exchanges and this makes them subject to price manipulation.
+Final Word
+Here is some great advice from a venture capitalist from Matrix Partners on how to invest in Cryptoassets. Do click and read the full thread. I could not put it better.
+
+
+Is the Bitcoin market going to collapse?
+While bitcoin has indeed proved many of its critics wrong over the years, its immediate and long-term prospects may not be too bright. This is for at least two reasons.
+
+
+How can Bitcoin be hacked? How could a malicious entity either hack the Bitcoin network by stealing BTCs or shock it to death, triggering panic and drops in BTC value?
+Hacking Bitcoin network
+It is nearly impossible to hack the Bitcoin network and steal Bitcoins. You will need to find the private key for a particular public address. The possibilities are limitless. Still a group is working on a project to crowd source computation power to find private keys to the Bitcoin network:
+LBC::Server
+“The "Large Bitcoin Collider" (LBC - a homage to LHC) is a distributed effort to find at least one collision of private Bitcoin keys by creating addresses to private keys in a continuous 2^160 range. These are checked against the list of known BTC addresses with funds on them. In the rare event of a collision, the funds on the address in question would become accessible to the collision finder.”
+You can lend the computational power on your computer to help them find the private keys. You can find the list of their findings here:
+LBC::Server - Trophies
+They recently managed to open a BTC wallet with 0.54 BTC.
+Hacking a Bitcoin exchange
+More easier way will be to hack into a Bitcoin exchange. An hack similar to Mt. Gox hack of 2013 will send market into frenzy. The Inside Story of Mt. Gox, Bitcoin's $460 Million Disaster
+The market will respond negatively to the hack and people will start selling their Bitcoins to safeguard their money.
+Triggering panic
+If you just want to create panic in Bitcoin world and let it burn in fire you might have to take number steps. Obviously you will need a group of hackers determined to do this. I would imagine something go like this:
+Even after all these, Bitcoin might survive
+
+
+Is it a good time to invest money in bitcoins?
+In any investment in the world only own skills should be applied. This always work better. As far as future of Bitcoin is concern, it is going to be brighter in terms of trading. It’s future only can be dashed by the dictation of a government. Like it happened in China recently.
+Market share of Bitcoin is going to grow. More people are going to participate in the business of Bitcoin. Whitepaper of Bitcoin says, more Bitcoins are going to float in near future. Overall, the clout of Bitcoin will get enlarged. Bitcoin transactions are going to be more frequent.
+Now, it depends on your investment skill that what judgement you take. Bitcoin is backed by a very good technology Blockchain. The security features of blockchain is unbreakable. It is the best part of Bitcoin. It has no external threat. As per my judgement, it is going to rule the financial sector of the world.
+Before investing, follow the trend closely. Even by using Cryptocurrency exchanges you can put a bid of your choice amount. Sometime, it looks wiser if we wait for 2–3 days. This type of judgments should be based on your own analysis.
+For any further information or concern you can always be in touch of us by using, Cryptocurrency Development Services, ICO Development & Marketing, Blockchain Development.
+Good Luck Ahead!
+
+
+What is Bitcoin? How can I invest in Bitcoin in India?
+So there are 2 ways to answer this question. One is theoretical and the other being practical.
+People (and especially Kishor) have already covered the theoretical aspect beautifully. So let me take the practical route (besides theory was never my forte).
+I got interested in bitcoins for the first time around 7–8 months back when one of my relatives made some money out of it. Please note I have used the word “interested” instead of heard. I had known about bitcoins for around 15 months but I got interested in it when I knew someone made money out of it.
+So I read up about it (mostly the same stuff which is mentioned in answers) and decided to give it a chance. Before I progress ahead, here is bitcoin price chart in USD since 1 November 2016.
+Do you see the growth? From $730 to $2050 in six months which means 180% jump!!
+Now to be honest if you had asked me what was my view back in November then I didn’t have a clue. If you ask me now then also I don’t have a clue as to why this is appreciating at this crazy rate. All I have is some news like Japan legalising it, Russia thinking on it etc.
+Therefore I believe if one has some small risk capital (and wouldn’t lose his sleep if the entire money is lost), then one should definitely invest. Now there are 2 ways to do it -
+Read everything about mining here
+I was not interested in mining and hence just invested in it through Zebpay. I started with a very small amount but slowly grew my position. But please remember even after growing my position, it was never a significant amount of my portfolio. And if I had made a loss on it, I would just keep fine.
+Along the way I also invested in other ALTCOINS especially Ripple (XRP). I really liked what they were doing. And I am glad to share that journey so far has been monetary rewarding. In April-May I got plain lucky to make a killing.
+How I made Rs. 3 Lacs from Rs. 50K within a month.
+Closing Comments
+And finally All the Best to you!!! May you make tons of money.
+
+
+How much have you invested in Bitcoin?
+I have invested in bitcoins,So I think I can answer this question.
+I bought Bitcoins worth Rs.30,000($463) on 12 July 2017 and the rate was Rs.1,44,460($2232) per bitcoin.That was my first investment in the Crypto currencies after 3 months research and monitoring. I have invested it for long term,because as per market and cypto currency experts the bitcoin is going to touch Rs.4 lacs($6181) mark at the end of the year.Considering this fact,I have invested Rs.30k($463) instead 15k($231)(which was my initial plan), with simple expectation of getting double of my money in next 5 months.
+But due to some emergency,I sold my all bitcoins on 1 Sept 2017 and luckily the rate was Rs.3,42,312($5290) per bitcoin.I got Rs.73,780~74k($1140)(after deducting everything).I felt very bad that time, because that was the boom time for bitcoin and it was almost Rs.30k–40k ($500-$600)increase in last 6 days. It was supposed to be my long term investment.
+So,I sold my bitcoins with almost Rs.44k($680) profit in 51 days and Rs.862($13) profit per day(approx).
+And needless to say that the real collapse of bitcoin starts on 3rd Sept and it almost went Rs.2,14,457($3314) on 15 Sept due to bitcoin exchange was shut down in China.
+And,I again I have invested Rs.25k($386) on 14 Sept in bitcoin, It increased again and hoping for good profit again and hope this time I will keep it for long term :)
+So,at the end, The investment in Crypto currency is just like a share market,you have to study and follow the rates as well as you have to click at the right time.Because,this will be the best investment nowadays.
+Happy Profit ;)
+(Note-My first answer on Quora,open for modifications and suggestions)
+P.S. Added figures in dollers approx.(Thanks for the suggestion Taban Fakhra Khurram)
+P.S. Many of you are asking about which wallet I have used and link for the wallet..Please follow this Zebpay
+P.S. If you want step by step procedure for how to buy bitcoins from Zebpay, can follow this link..
+P.S. Thank you all for 1000 upvotes. :)
+
+
+What are the best ways to earn Bitcoins?
+Hello,
+I will Share my experience towards Bitcoin and also Tell you easy method to earn 1 Bitcoin per Month.
+I have been making BTC for the past 2–3 years. Through all these year I have explored a many websites and android apps to earn BTC without any investment.
+Considering you as a beginner, let me first introduce you to Bitcoin BTC.
+What is a Bitcoin ?
+Bitcoin is an innovative payment network and a new kind of money. Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
+1 BTC= 100,000,000 Satoshi
+The satoshi is currently the smallest unit of the bitcoin currency recorded on the block chain. It is a one hundred millionth of a single bitcoin (0.00000001 BTC). The unit has been named in collective homage to the original creator of Bitcoin, Satoshi Nakamoto.
+And as now current value of BTC is :-
+1 BTC = 3976.04 US Dollar OR 255965.74 Indian Rupee(approx)
+You can see how much valuable is this. I guess till now you have got a bit of knowledge about what BTC is and what is its value. Now let’s move to other part of the topic i.e.
+How can I earn BTC ?
+Although there different ways to earn BTC but all of them can’t be done without any investment we need less or more investment in almost everyone except in those where we can earn BTC through some website by making an account there.
+Let’s start with the following step -
+First of all you need to make a Bitcoin wallet. Where you’ll buy, sell & store BTC. You can either make your wallet on Bitcoin Wallet - Blockchain http://orhttps://www.zebpay.com/ there are many other options .
+Now, you are ready to earn bitcoin just Click this website link below and register yourself using a valid email id.
+1.Free Bitcoin Wallet, Faucet, Lottery and Dice!
+Free Bitcoin Wallet, Faucet, Lottery and Dice!
+This is a great site. Once you register, you're able to 'play the game' every hour, which gives you a shot to win free bitcoin up to 200$. Playing the game consists of entering a captcha check, which rolls the dice, and wins you either a small (or large) amount of bitcoin. It seems as though most of the time when you roll, you win a small amount of bitcoin.
+I will tell a method on how to increase your earnings in the Free Bitcoin Wallet, Faucet, Lottery and Dice! without any need of referrals
+Method : MULTIPLY BTC
+Free Bitcoin Wallet, Faucet, Lottery and Dice! provides a Hi-Lo game. And there is a simple strategy to beat such games: When you win, return to your base set; when you lose, double your set. This way you’ll always win your base bet (if you don’t run out of money while betting).
+And that’s why you need some decent balance: It’s possible to lose multiple rounds and each time your bet is doubled. That means, if you lose 8 rounds in series, the bet is 256 Satoshi. In the ninth round the bet is 512 Satoshi. And so on. This happens more or less often. But in rare cases (and they occur!) it can sum up to 2048 or even more. When you have 8192 Satoshi, you will be able to set the max bet to 4096 Satoshi, for what you have to loose 12 rounds in series. That can happen, but it’s rather rare. Also it’s hard to get to the next milestone of 16384 Satoshi by playing the “Free BTC”, so the Hi-Lo game is the next step to get further
+Here we go! Click on the “Multiply BTC” navigation point and go to the “Auto Bet” tab.
+Fill the form with following settings:
+Base Bet: Depends on your balance. Start with 0.00000001 (for 0.00008192 balance) and increase as you go on: 0.00000002 (for 0.00016384 balance), 0.00000004 (for 0.00032768 balance) etc.
+Max Bet/Win: Your current balance divided by 2 and round down to a power of two (i.e. 0.00004096 for a balance of 0.00008192)
+Odds: 2
+Rolls: 999999
+Bet On: Alternate
+On Win: Return to Base
+On Lose: Increase set by 100%(This is important)
+Stop Betting After: Profit ≥ 0.00001000 (you can vary this just the way to want)
+On Hitting Max Bet: Stop Betting
+Do Not Refresh: Tick
+Here is the AUTO-BET Screen with the above settings applied.
+These are the settings. It basically says: “Play until I have made 1000 S profit. Start with a bet of 1 S and bet alternating on hi and low. When we lose a round, double the bet for the next round. If we win the round, return to the base bet. When the bet is 4096 S, stop the game to prevent us from losing everything.”
+Click on the “Start Auto-Bet” button and watch your balance grow.
+Here is a snapshot of me playing the game and winning
+There is a little risk, that you lose 4096 S and have to return to step 1. However, the chance that this happens is low enough to take the risk. Remember: You never can actually lose anything, because you’re just playing with money which was given to you. When you reach a balance of 16384 S (= 0.00016384 BTC), you can start to double the base bet and the max bet settings. Click on the “Start Auto-Bet” button an watch your balance grow twice as fast. Repeat until rich. Don’t be greedy and use too much of Multiply-BTC. It looks fine initially but you may lose a substantial amount of your balance if you overuse it.
+2.Bonus Bitcoin(Bonus Bitcoin)
+In this faucet, you can claim up to 5,000 every 15 minutes. You simply complete the captcha and then click on the Claim now button.
+3.Moon Bitcoin(Moon Bitcoin)
+In this faucet, you can claim as often or as little as you like. This faucet gradually fills up quite quickly but slows down over time until you make a claim. So the longer you take to claim, the more you can claim. You can increase your claim amounts by up to 400% by taking advantage of the Daily loyalty bonus, referral bonus, offer bonus and mystery bonus schemes.
+4.Bit Fun(Bit Fun)
+same as Moon Bitcoin
+For earning BTC from above three BTC website (i.e.- Bonus Bitcoin , Moon Bitcoin , Bit Fun ) you need to register on Cryptocurrency micro wallet (COIN POT) and get your coin pot wallet id and link to these three website. Now your earning will be automatically added to Coin pot Wallet and Once you earn enough amount you can withdraw to your other main wallet.
+Here’s my earning proof from Cryptocurrency micro wallet
+Earning from all the three Accounts will be added here only. For Free Bitcoin Wallet, Faucet, Lottery and Dice! account you can directly withdraw to your main wallet (i.e.- Block chain or ZebPay or any other whichever you use. )
+PS. Above written all websites are 100% genuine and tested by myself. You can 100% rely on them. I welcome you for any query in the comment section below.
+New Terms Used in the above Text
+BTC-Bitcoin
+Thanks
+
+
+Should I buy Bitcoin now or am I too late?
+It depends on why you want to buy Bitcoin.
+If you are fascinated with the technology behind it and would like to use coins for purchases, bets or whatever, it’s never too late to buy some. Another option is to get into mining of alts (alternative cryptocurrencies) which can be done with general purpose hardware like CPUs or GPUs, then convert the proceeds to Bitcoin or just play with those alts. The basic technology behind all of these coins is the same.
+If you are considering a long term investment, it seems a not bad idea. Bitcoin has gone a long way from a fraction of a U.S. cent in 2010, when only a small number of geeks knew what it was, to thousands of U.S. dollars in 2017, when most people are still unaware of it. However the risks are still there, so diversify your investment portfolio.
+If you are going to buy some Bitcoin for day trading toward fiat or alts, keep in mind that about 90% of crypto traders are losing more than winning. Are your skills good enough? What makes you think you can make it to those remaining 10%?
+If you are into not so legal activities, Bitcoin is pretty much a Wild West business territory still. There are many things you can do with it and get away easily while the same things could lead you to a jail in the world of fiat. These activities range from tax evasion and money laundering to drugs and hitmen. Again, it’s up to your skills and luck.
+If you want Bitcoin to put it further into an ICO (initial coin offering) or a few expecting quick profits, keep in mind that over 90% of them are scams whether plain or sophisticated. It’s better to stay away unless you realise what you’re doing and assume full responsibility.
+There are more pro and contra reasons, but I’ve outlined those most important.
+
+
+Will bitcoin rise again?
+Before answering this question, we need to understand that why bitcoin prices fluctuate so much or why are we hoping that it will go up significantly.
+The reason for fluctuation is because bitcoin is a very volatile currency. China has maintained more than 50–60% bitcoin capital all over the world. It means that Chinese policies can greatly influence its price.
+If bitcoin will spread all around the world, and more number of users will come, then fluctuation will automatically decrease. For example, US Dollar fluctuates very less, maybe 1 cents or 2 cents a day because it is traded or used in a very large volumes.
+Second, why are we hoping that bitcoin prices will go up?
+The problem with fiat currency is that government can print currency according to their needs, thus it means unlimited supply, which in turns the higher inflation.
+The main pro of Bitcoin is that only 21 million bitcoins will ever be made. Thus it has only limited supply. In the recent years, awareness and users of bitcoin are growing compoundly, thus increasing demands, which in turn will increase its price.
+Top merchants like Microsoft, Dell, Paypal, Subway, Wordpress, Amazon, Flipkart, Audi, Mercedes, BMW, all started accepting bitcoins.
+See the market capitalization of bitcoin, which even touched 18 billion dollar mark.
+The market price of bitcoin in US Dollar from Feb, 2016.
+Voila!! Its that simple as that. That’s why all world’s best investor like Bill Gates are saying that bitcoin prices can even cross 10,000$ till 2020.
+But, as I am following bitcoin very closely since last and half year, I can say, it can achieve its target much sooner.
+Hence, a very good time to invest in bitcoins.
+Sources - http://www.blockchain.info
+
+
+Are bitcoins a safe investment in India?
+SHORT NOTE ABOUT CRYPTO CURRENCY BITCOIN ETC !!!
+1)Jyoti Gupta, is a homemaker. She used to work as a real estate agent until slowdown hit the industry. While she was struggling to make ends meet, Bitcoins caught her fancy. Given the digital currency's speculative nature, she earned good returns in a short period. "I have made good money over the past one year. I will continue to invest in Bitcoin," she says.
+2) Many people in India have started buying and selling crypto currencies, a digital currency where encryption techniques are used to regulate the generation of units and verify transfer of funds. These operate independently of a central bank. India has over one million Bitcoin users; the country accounts for almost 10 per cent trading in volume terms. According to a recent report by PHDCCI, combined trading volumes in India could be in the range of Rs 200-250 crore per month.
+3) Trading in crypto, or virtual, currencies has surged due to extraordinary returns. For example, Bitcoin, the oldest and the most popular virtual currency, has given 30 times returns over the past four years. The value of the currency surged from $100 in June 2013 to $3,025 in June 2017. Similarly, Ripple, a crypto currency based on inter-bank settlements, has given 200 per cent returns over the past three months ended July 31.
+4) The other reason for such an increase in volumes is the low returns given by other asset classes such as real estate, fixed deposits and gold. While awareness about Bitcoin and altcoins (virtual currencies other than Bitcoin) has been rising, for investors, there are several concerns that they should be aware about. For example, Bitcoins are not backed by any tangible asset but sheer demand. Unlike other investments, there is no underlying asset; its value is measured by just demand and supply. Moreover, there is a lot of opacity behind their operations. For instance, no one knows who is behind the creation of Bitcoin. Most important, the crypto currency market is not regulated in India. If you lose money in a bank, you can complain to the Reserve Bank of India (RBI). But for Bitcoin, there is no regulator you can turn to.
+5) Given these concerns, the government formed a committee this April to give recommendations for regulating the crypto currency market. The committee members, however, have not reached any agreement yet. The report is still awaited. Several issues, ranging from who could be its regulator to how secure are these transactions, are being deliberated at the government level.
+6) Yes, In today's financial world, mining of Bitcoins is a safe investment in India. Mining of Bitcoins is overall a digital cryptocurrency. Bitcoin mining is the safe investment anywhere one wants to opt for around the world. The price of Bitcoins is increasing on large pay scale in today's crypto world.
+7) In India, if we talk about Bitcoins, there is a no such law which prohibits the use of mining of bitcoin and various cryptocurrencies in easy and secure way. Even the former RBI governor - Raghu Ram Rajan is in the favor of bitcoin. For many years bitcoin is already in use in our country.Once mining is done one can easily send and receive bitcoins through wallet without any third party involvement. Mining is simple and secure along with high power performance.
+NOW THE QUESTION IS HOW SAFELY I CAN MAKE INVESTMENT IN CRYPTO CURRENCY NOW A DAY'S THERE ARE MORE THAN 1000 CRPTO CURRENCY ARE TRADING IN OUR COUNTRY DAILY AND MANY OF THE CRYPTO CURRENCY EXCHANGERS ARE NOT GENUINE NOT TIE UP WITH RBI !!!
+Common Crypto Scams and How To Avoid Them Common Crypto Scams and Their Tell-Tale Signs THESE SCAMS ARE DANGEROUS!!!!
+A common red flag of ponzi schemes is that they promise a high rate of return with very little risk. This is contrary to the usual investment maxim of “high risk/high reward”. Put simply, if it sounds too good to be true, it probably is.
+Another red flag to watch out for is multi-level or tiered marketing structures. If it sounds like one level is relying on the efforts of a lower tier to generate profits, you’re likely dealing with a ponzi scheme
+Examples of recent cryptocurrency ponzi schemes include BIT CONNECT. Ethereum founder Vitalik Buterin was amongst those to call Bitconnect out based on their hugely optimistic forecast for investor returns:
+Red flags of exit scams would be incomprehensible white papers, none existent teams, and extravagant profit projections. With it being so easy to pull off an ICO exit scam, it’s important to thoroughly research any project before backing it with hard cash. Study the white paper. Check out the team and their backgrounds.
+Remember, most ICOs will probably fail at delivering the promises made to investors eventually. Add in the fact that some of them are downright scams and the chances of an investment falling to zero are even greater.
+Red flags of phishing websites or emails are non-secured webpage URLs or requests for sensitive data. Check that the website uses a secure address (starts with https rather than just http). In addition, look out for any strange characters within the address itself. Be particularly mindful of the use of tiny dots above or below letters. Also, avoid sponsored advertisements on search engines or social media. If you use an exchange or similar service regularly, type the URL in yourself and bookmark the page after checking its SSL security.
+These are just a few of the various scams around and their telltale signs. While the cryptocurrency market remains predominantly lawless, such deceptions will unfortunately be part and parcel of it. Bitcoin and other digital currencies allow their proponents to essentially become their own bank. Whilst this ensures unprecedented freedom from traditional financial institutions, it also demands that investors and users are responsible for their own funds.
+What is an exchange?
+Because cryptocurrency coins like bitcoin only exist on a software platform CALLED BLOCK CHAIN TECHNOLOGY, there are only two ways to acquire them: the first is to get paid in that cryptocurrency for a product or service that you’ve provided, and the second is to buy some coins from an exchange.
+Online exchanges, just like their brick-and-mortar counterparts, exist to provide one core service: allowing the conversion of one currency to another. In this case, they allow you to convert fiat currency (INR, EUR, etc.) to a cryptocurrency carried by the online exchange (BTC, ETH, etc.) and vice-versa.
+Where are my coins stored?
+The very first thing you’ll notice after registering with an exchange, and going through the verification process that the more reputable exchanges have in place, is that you are immediately provided with a wallet. This wallet usually has a public address, just as you would find with any other software wallet. It often allows you to send and receive coins to and from other wallets, usually your own desktop, mobile or other type of wallet.
+WHAT IS A WALLET?
+A wallet is a piece of secure software that connects to the blockchain and lets you take three primary actions:
+There are many types of wallets, from those that reside on your desktop computer to ones you can print out on a piece of paper.
+
+
+How are bitcoins generated?
+New bitcoins are generated by a competitive and decentralized process called "mining". This process involves individuals that are rewarded by the network for their services. Bitcoin miners process transactions and secure the network using specialized hardware and collect new bitcoins in exchange.
+The Bitcoin protocol is designed in such a way that new bitcoins are created at a fixed rate. This makes Bitcoin mining a very competitive business. When more miners join the network, it becomes increasingly difficult to make a profit and miners must seek efficiency to cut their operating costs. No central authority or developer has any power to control or manipulate the system to increase their profits. Every Bitcoin node in the world will reject anything that does not comply with the rules it expects the system to follow.
+Bitcoins are created at a decreasing and predictable rate. The number of new bitcoins created each year is automatically halved over time until bitcoin issuance halts completely with a total of 21 million bitcoins in existence. At this point, Bitcoin miners will probably be supported exclusively by numerous small transaction fees.
+
+
+Do you think Bitcoin is in a bubble?
+In order to understand a “bubble” one needs to understand the underlying valuation metrics. Most “experts” simply guess at how to value Bitcoin and subsequently explain the price movements very poorly. Tom Lee of Fundstrat (formerly head of research at J.p. Morgan) has come up with a method using Metcalfe’s Law, which says that the value of a network is proportional to the square of the number of users, and explained 94% of Bitcoin’s price movements over the last 4 years.
+TOP STRATEGIST: Bitcoin will soar to $25,000 in 5 years
+The fundamental takeaway here is that Bitcoin as a network of users has achieved a significant enough size that its valuation fluctuates largely based on a function related to average transaction value and number of users. Given an upward trending average transaction size and an upward trending number of users you can see how the price could continuously increase without any particular “bursting” of a bubble. The two major factors that could burst Bitcoin would be a significant movement of users to another network and a significant change in the transaction values.
+Understanding these two things gives you a sense of how crypto works as a larger market and helps you understand that cryptocurrency generally is just a new medium for storing value and these various stores of value have always been around and various games have been played with those stores of value to incentivize players towards certain economic outcomes. Thinking that it is a “bubble” is simply to miss the point (and the boat) completely.
+Generally speaking crypto advantages fall into a few categories: 1) deflationary economics. This means that supply can never be manipulated so that your store of value will incentivize users into moving capital to beat inflation. This generally creates an arbitrage scenario with nearly all fiat currencies that incentivized growth in storing of value in crypto over banks and through other fiat denominated institutions. When you anticipate needing fiat funds you will simply draw from the percentage of your portfolio that is fiat currency and rebalance as the overall crypto percentage grows and you need to rebalance for risk purposes. 2) i’m not going to finish this section because it will get tedious.
+Cryptocurrency represents a fundamental shift in how people store value. To think that Bitcoin is a “bubble” is to ignore the fundamental reality of the last 8 years. Out of all world “currencies” Bitcoin has been the best performing for 7 of those 8 years. This is unlikely to change except a different crypto could take the place of Bitcoin which is why a good investor will balance their portfolio with a mix of at least Litecoin, Monero, Dash, and Bitcoin Cash in addition to Bitcoin, real estate, stocks, cash, and maybe some bonds if you know how to play that game.
+
+
+What is the best bitcoin wallet? Why?
+Definitely Changelly in my opinion. In 2014, one of the biggest exchange platforms of the time, Mt. Gox, collapsed - leading to a loss of 650.000 Bitcoins. Hundreds of thousands of users who were holding cryptocurrency on Mt. Gox lost all of their funds - just like that! And sadly, there is no guarantee that something like this won't happen again. This is why you really need to carefully choose which cryptocurrency wallet you want to trust with your funds.
+So what are the alternatives for storing your cryptocurrency safely?
+There is a number of different options, the cheapest one being paper wallets.A paper wallet means that you print out the private and public keys to your bitcoin storage wallet. Those printed keys grant access to your funds, and losing your paper wallet also means losing access to your coins! So make sure to make several copies and store them in a safe or give one to someone you trust, for example your parents. But of course a paper wallet can easily be lost, burnt or destroyed in any other way - which is why they are not the optimal storage solution.
+The best solution for storing your coins are hardware / cold storage wallets.
+Such wallets store your coins offline, and therefore protect them from being hacked.It's basically a small hard drive (which would be indestructible, in the best case scenario) that securely contains your cryptocurrency wallet information.There are a number of hardware wallets available, and many companies have come out with new products or added new features to their offline wallets as demand has increased a lot recently.
+Store your assets in a wallet that you control the keys to:
+If you don't control the keys to your assets then you don't control what happens to them. If your assets are on an exchange or an online wallet then those third parties control them and you are leaving the responsibility of keeping them safe in their hands.
+When trading, use 2 factor authentication (2FA) on all exchanges:
+If you have assets stored in exchanges in order to trade them, make sure to enable 2FA as this adds a very good layer of security to your account. For example, if your password was to be compromised an attacker would also need access to your 2FA code in order to log in to your account. 2FA codes are usually sent via text message so this means that the attacker would need to be able to read the text message in order to gain access.
+Be careful when sending assets to other addresses:
+When moving assets around it can be easy to accidentally send assets to the wrong address and due to the nature of cryptocurrency, transactions are irreversible. What I like to do is send a very small amount of an asset to an address that I intend to send large amounts of assets to. If that transaction goes through correctly, I move the rest of my assets knowing that I have the correct address.
+
+
+Is Bitcoin a bubble?
+Future valuation is a tricky problem.
+The bubble analogy has some truth for some cryptocurrencies - as it may well apply to initial coin offerings in the future - but cryptocurrencies must be evaluated individually.
+The ultimate speculator George Soros who thinks it a bubble says: “When I see a bubble forming, I rush in to buy, adding fuel to the fire,” he said in 2009. “That is not irrational.” One such example is gold, which he described as the “ultimate asset bubble” in early 2010. “Normally when you have a parabolic curve, eventually it has a very sharp break,” Soros said Thursday. “But in this case, as long as you have dictatorships on the rise you will have a different ending, because the rulers in those countries will turn to Bitcoin to build a nest egg abroad.” Bloomberg - Soros Says Bitcoin Bubble Won't Have ‘Sharp Break’ Like Others
+One good thing about Bitcoin is if we assume it is a bubble - bubbles are constantly forming and popping, it makes it hard to form a “super bubble”. If Bitcoin crashes 50 percent every two or three months, it clears out a lot of the leverage that causes huge problems if you let it go too long.
+Antibubble thought on Bitcoin is probably somewhat more true with strong evidence that the tiny number of large holdings in Bitcoin are not part of the mindless crowd.
+If one examines Bitcoin wallets on the blockchain, only 0.06% of worldwide wallets (15,741) have over 100 bitcoins (~$1,500,000). A good amount of these wallets are large exchange wallets (liquidity), missing Bitcoins or never moved, they are not necessarily trading accounts. This can be verified independently, although we cannot be fully certain that each wallet is a close enough representation of one person. There is also a lot of stealthy OTC trading going on, that does not affect the spot price. 30M is the biggest purchase I’ve seen. I’m sure there may be even bigger purchases.
+These buyers I would presume are generally long-term buy and hold. Peter Thiel, Mike Novogratz, Tim Draper, Winklevoss Twins, Mark Cuban, and many more billionaires (as even Rothschilds has reported some Bitcoin on their SEC fund filings) are holding large sums of Bitcoin. These people are willing to hold Bitcoin for long periods of time. Whatever short term gains or losses are quite irrelevant, temporally speaking. I quote the Winklevoss Twins: “we won’t sell Bitcoin at $300,000”. They currently hold a billion dollars in Bitcoin.
+Peter Thiel was co-founder of Paypal, funded Facebook, LinkedIn, Yelp, Quora, Stripe etc and many other successful unicorn startups early on. Perhaps that wasn’t based on pure luck, but actual skill as it goes against the blind luck hypothesis. He currently holds an estimate of hundreds of millions in Bitcoin.
+It also happens to make a sensational news report that sells ads by calling bubble and saying “see, it’s crashing!”. Funnily enough, that doesn’t happen for the dotcom bubble or housing bubbles.
+However, the bubble question is the wrong one to ask. Being contrarian to this question is useless. Anyone can string together random data to suggest frothiness or otherwise.
+The truly contrarian position here is: Thinking for yourself. What is valuable? How should we figure that out?
+Bitcoin is not a security, it doesn’t pay dividends like a stock or cashflow like a home. The shortest way to say what Bitcoin is - a mix of digital gold and payment network. That is not easily valued, as there are many, many feedback loops involved, and has to do with beliefs, networks, and infrastructure - like any sort of system for money. Money is a universal belief and language that brings various people around the world together.
+If more mainstream investors come into this asset class over 1T market cap, there is a lot of potential, considering: 1. Regulation: It is clear a balance of regulation and innovation is necessary. Japan has already embraced legalities of Bitcoin, the US doesn’t really regulate Bitcoin beyond money transmission licenses as it’s not a security. Although central exchanges are banned in China, individual ownership is fully legal - Hong Kong will gladly host exchanges and take any “grey money”. See: Kayee Tong's answer to How will Bitcoin be regulated among G20 countries in 2018?2. Infrastructure: There are sufficient derivatives and other exchanges in place as infrastructure to cement Bitcoin as a solid cryptocurrency. Bitcoin futures can be used to lock in and hedge against price volatility. Section 1256 contracts for Bitcoin futures already exist on the CME/CBOE. 3. Securities: Bitcoin is widely traded and has no significant regulatory pressure in security law, relative to other ICOs.4. Political Economics: Bitcoin will probably be traded for oil when the market cap/liquidity is sufficient, especially China and Russia have been itching as a SWIFT alternative without the petrodollar. North Korea already has Bitcoin and has oil embargos.5. Use cases: Bitcoin will probably be used more in global warehouse financing. It already is starting to be used on Ziddu, which got bought by LongFin Corp.6. Developers: Bitcoin undergoes the most rigorous code updates, and is implementing 2nd layer scalable technology, such as Lightning and SegWit. We may see transaction costs lower than VISA soon.7. Direct investments: Some of the smartest billionaires bought into Bitcoin and/or cryptocurrencies directly. See Peter Thiel, Winklevoss Twins, Mike Novogratz, Mark Cuban, Tim Draper, Jim Breyer etc...8. Indirect Investments: Top venture capital firms, such as Andreessen Horowitz back Bitcoin-related ventures to add to the ecosystem. There are many unicorns already.9. Cause: Insurance against an Orwellian future definitely provides value10. Scaling: Bitcoin can be improved with second layer scaling techniques, such as MIT Lightning Network and Segwit to become near zero fees. It is also currently much, much faster than an international bank wire.
+To those who call pure tulipmania: A tulip bulb can't do provide that sort of value. Can you send a tulip bulb for payment halfway around the globe in less than 10 minutes? Can you have 21M fixed supply mathematically embedded on a tulipbulb?
+Fear of the unknown is a deep-seated emotion. When people hear a new proposition that is radical, they think things will go wrong. Risks are exaggerated. People work with models in linear trajectories with everything else staying the same and try to draw analogies from the past to predict the future. We know that’s nonsense, as the world doesn’t work like that. The only reason governments are saying these things is because the central bank “dinosaurs” (an understatement when you look at the big picture) are worried about the disruptive potential.
+Central banks 5 Stages of Grief, according to Andreas Antonopoulos: Denial - "Bitcoin is silly technology, will be dead soon" Anger - "I hate Bitcoin, terrorists/money laundering must be involved in some way" According to IMF, 5% of fiat is estimated to be used globally for money laundering. “Less than 1% of Bitcoin used for Money Laundering” The Criminal Underworld Is Dropping Bitcoin for Another CurrencyFocus is on “the use of mixers or cryptocurrencies such as Monero and Dash”- Europol PrimerBargaining (we are here) - "Bitcoin is not that interesting, the blockchain is interesting, how about we do blockchain?" Blockchain was designed to be decentralized, Central banks are inherently centralizedDepression - "But we had such a good run for 200 years. Why don't people want to pay us high fees?"Acceptance - Excluding 5.5 billion people from banking and only banking the privileged 2 billion people and squeezing fees from them, while debasing domestic currencies is not a sustainable long-term business strategy Bank Of America Ends Free Checking Option, A Bastion For Low-Income Customers
+With those factored in as assumptions, I believe the valuation of Bitcoin is severely underestimated right now - and it has a finite chance it can be priced at $250,000 or more in the future. It will probably take a long time for this to happen.
+This is not investment advice. Keep in mind, there is a strong chance I could also be wrong about the price. I am simply engaging in speculative betting accordingly with a small portion of my portfolio. I won’t lose my shirt and neither should you.
+
+
+What is the future of Bitcoin? Will it become a mainstream currency, or will its popularity wane, and why?
+Maybe you should listen to a couple of Billionaires and what they were saying about Bitcoin instead of asking the layman.
+In the Lisbon Websummit conference, one of the biggest Silicon Valley icon,
+Tim Draper who made over $1 billion by getting early on Twitter, Skype, Tesla had this to say:
+he told Forbes:
+"In five years, if you try to use fiat currency, they will laugh at you. Bitcoin and other cryptocurrencies will be so relevant... there will be no reason to have the fiat currencies."
+Hedge fund legend Mike Novogratz on the other hand predicted last month that Bitcoin will hit $10,000 in the next few months time.
+And he’s not just saying it, he’s putting his money where his mouth is with a $500 million crypto-fund.
+Recently, after the short $1000 dip from the Segwit2x cancellation, he was also rumored to have bought $15–20 million worth of Bitcoin. (probably less than 1% of his portfolio)
+John McAfee - creator of the antivirus software predicts that Bitcoin will hit $500,000 within three years.
+Mark Cuban changed his long term skepticism and invested in a Bitcoin ETN. But he said you got to pretend like you’ve lost your money like collecting art or baseball card.
+Bill Gates mentioned in 2014 during an interview that Bitcoin is “Better Than Currency”
+Richard Branson Thinks Bitcoin is Working and is an investor in Bitpay a Bitcoin payment processing platform
+Of course, there’s no guarantees these guys will be right, but they’re the 1% and we’re the 99%. So who would you listen to?
+Warren Buffett is probably one of the famous Billionaires who says Bitcoin is “The Real Bubble”
+For me , I haven’t heard of these types of bullish forecasts since the early days of the internet and tech bubble. Or you might have read the famous comparison to the Tulip mania.
+But how can you still compare Tulip Bulbs to cryptos? Personally it doesn’t make sense.
+To understand why Bitcoin is a revolution and a brand new asset class that is completely different from stocks, bonds and other traditional currencies you’ve got to read this.
+
+
+Is it safe to invest in Bitcoin or is it just a bubble?
+To estimate whether Bitcoin is in a bubble, we need to look at the situation objectively and from as many different angles as possible.
+The debate over this is far and wide. And I don’t believe that anyone can give you the correct answer easily.
+If we look at “currency” through the traditional economic understanding of “currency”, it is clear that it looks like a bubble. But we must also take into consideration, that Bitcoin and cryptocurrencies are not your traditional “currency”.
+We are in waters we have not been in before. The design and execution of cryptocurrencies is new - a marriage of money, cryptography and technology.
+The problem is that humans are poor predictors of novel futures. We consistently predict a future that benefits our world-view. We carry biases that cloud our judgement and are hard-wired to think and predict linearly, even though we are dealing with complex systems. We also rely heavily on memory. Which means we rely on past situations that resemble the situation we are making predictions about.
+Most of us didn’t see bottled water coming. Neither did many take iPads seriously. Water is available everywhere and who needs a laptop and smartphone in one. Sounds familiar?
+Search your own memory for trends you never thought would make it. Yet there were visionaries out there that created the trends we now follow. How to think like them, is my question.
+Imagining the Future Is Just Another Form of Memory
+“Your accumulated experiences—and your cultural life script—are the only building blocks you have to construct a vision of the future. This can make it hard to expect the unexpected, and it means people often expect the future to be more like the past, or the present, than it will be.”
+This forces us to completely question everything we understand about “currency” so far. We must almost take the role of a scientist and carefully examine all statements we and economists are inclined to make from their traditional lens on currency.
+Hence why I am annoyed at any claims by economist all-stars who make boastful claims that they know what is going on.
+Take the example of long time Bitcoin bubble predictor, Warren Buffet, who recently announced:
+Buffett on cryptocurrencies: 'I can say almost with certainty that they will come to a bad ending'
+"Why in the world should I take a long or short position in something I don't know anything about. "
+….
+Why would you say anything on a topic which you don’t “know anything about”? The logical fallacy in his statement is perhaps forgivable, considering his age. Yet, it’s exemplary of many things said on Bitcoin.
+I find it concerning how negatively Bitcoin is being portrayed in the media - which is often a powerful, yet one sided, influencer of public opinion. And, as a result, also public behaviour. Question everything is my bottom line. Who’s interests is this serving? Why?
+I do leave you with a positive point:
+What Research Tells Us About Making Accurate Predictions
+“Those who preferred to consider multiple explanations and balance them together before making a prediction performed better than those who relied on a single big idea.”
+Which illustrates the point I’ve been making. It’s crucial that we train ourselves to be better at predicting the future. So let’s consider some different angles.
+This is not a comprehensive answer covering the debate and should be taken as a signpost on how we all need to educate ourselves on the topic BEFORE settling on an answer to this question.
+So do read all the other 85 angles to this question. And read them like a scientist would, questioning everything. Lot’s of answers sound smart, but fall apart when questioned deeply.
+Food for thought: money is itself the bubble of all bubbles. And it’s a big one. And we try hard to not let it pop.
+But boom-and-bust cycles are built into the fundamental framework of the global financial system (Boom And Bust Cycle). Which is another way of saying that the creation and the subsequent bursting of bubbles is a key characteristic of today’s capitalist economies.
+A good read on this comes from Michael Ashton is his book What's Wrong with Money? The Biggest Bubble of All
+I will write up some more angles of my own to consider, either in this or another answer, at a future date.
+Since you’re asking this question, I presume you've been thinking of getting into cryptocurrencies, but are uncomfortable with the risks of investing.
+In that case, an Airdrop is probably the easiest way to get you started. Many people don’t know this, but cryptocurrency projects often organise airdrops, where they give their native cryptocurrency away for free. This is usually done in exchange for simple actions, like following their Twitter or Facebook. You can join an airdrop community, like this one, to stay in touch with future airdrops that are being organised.
+Hope this answer has been helpful to you! If so, leave me a comment or an upvote.
+
+
+What would be the legal status of Bitcoin in India?
+Trading Crypto-currency is completely legal in India. Trading alt-coins is also legal but you need to convert your alt-coin to Bitcoin to en-cash it in India.
+Bitcoin aims to be unregulated. Mainly depoliticize. No govt can ban Bitcoin.
+Even if Govt. banned bitcoin you can have your Bitcoin in your wallet. It is like a peer to peer money transfer system.
+To sell/encash BitCoin legally, the person have an BitCoin Wallet account with Indian Crypto Currency Exchanges. To open an account with any Exchanges PAN (Permanent Account Number) Card is Mandatory as one of KYC Document as per the norms of Government.
+To avoid this problem you can try localbitcoin.com . No personal documents required. Completely anonymous (You can use VPN). Cash transaction is possible. No KYC required. Very fast and secure.
+It is not mandatory for traders to keep his Bitcoin on a “BitCoin Wallet account” with a Crypto Currency Exchanges.
+One can keep his Bitcoin in his personal Block-chain based wallet. No need of third party-exchanger for keeping Bitcoin.
+See Block-chain technology for more information.
+In India FEMA rules are only applicable in Forex share market.
+On January 2, Finance Minister Arun Jaitley told the Rajya Sabha that Bitcoins or any such cryptocurrency are not legal tender and those indulging in such transactions are doing it at their own risk.
+About Tax:- Give tax according to your tax slab.
+The price of Crypto-currency is increasing that does not mean it is a good thing for long term investment.More than 90 % altcoin exchanger are scam. So be very careful. Learn, understand then invest in it.
+Don’t buy crypto-currencies in a hurry for a high price, wait for the right time. I think you have got your answer, I generally don’t get time to write here but i want people to know about these facts. I thank everyone for reading my long answer.
+Happy trading!
+
+
+How can I get free bitcoins?
+The Bitcoin cryptocurrency is the most talked about as it has the highest value in the present. There are others as well but since Bitcoin is widely used for e-transactions people are interested in it. What is started as less than $1 for a bitcoin is now $ 3900 per Bitcoin. With Japan legalizing it, other countries will soon be following suit. One way to get Bitcoins is to mine them but for that a very high end PC is required i.e. you have to shell out a lot of bucks. Another way is Bitcoin faucets.
+Free Bitcoin Wallet, Faucet, Lottery and Dice!
+The funda of the bitcoin faucet mentioned below works like this-they are involved in some kind of Bitcoin mining and from the traffic they get on their site through users like us, they invest in their business and give a part of the mined Satosi’s to us. Earn more bitcoins you can here!
+I tried several of them but almost all had loads of advertisements on them. Each time I end up clicking on some or the other ad instead of getting my free Satoshi's. If you need to buy or sell bitcoins you can do it at Coinmama.
+Pasting a link here because this Faucet had No advertisements on it. You get to roll the counter every hour and Bang!! there are free Satoshis credited to account.
+Return so slow but guaranteed and regular. You get a bonus when you roll a specific number(mentioned on the page) which are in the form of free Satoshi's.
+I've been on the faucet for over 7 days and the returns are plenty. Yes, you have to give a bit of time but you get its worth immediately. You can refer to your buddies and when the roll you get a part of it too (50% of what they score).
+Free Bitcoin Wallet, Faucet, Lottery and Dice!
+You can take your chances in the lottery and get in bumper prizes. Once you reach a certain amount you start getting compounded interest over it.
+For zero investment in Bitcoins this method is a positively profitable way to start in the Bitcoin age. 10K Satoshis and counting….
+In Bitcoin, it’s like every organic food store has someone out front, offering free samples. Also, there’s a library everywhere you look, but only a few of those libraries have any good information. The largest traders would benefit a great deal if everyone just jumped blindly into Bitcoin, investing large chunks of their life savings in the process. That would be just fine by them, but it’s unlikely to happen. More likely, people are going to get involved with Bitcoin either by necessity, by chance or because someone was willing to give them a few bitcoins to get started with.
+Now, before we begin discussing the places out there to get free Bitcoin, let’s just be clear: there is no way to get wealthy without working or investing for it. It is impossible to make an income in bitcoins or any other currency just by clicking around on some websites. However, that being said, cryptocurrencies are unique in that clever marketers can make a profit doing exactly that, giving away money. This would not be possible in other currencies, where they simply can’t be broken down small enough. The operator will usually make less than a penny. If they were forced to give you a penny or more, there’d be no way to be profitable. Getting free bitcoins is not a way to get rich, and certainly not the most profitable use of one’s time, but if you’ve got some free time and would like to pick up a small amount of extra Bitcoin now and then, then this definitive guide will is a great place to start.
+Bitcoins in its pure essence is the money. It is a digital currency that serves the same functions and purposes as money.
+You can replace the BTC to compensate any country currency and get the value of product or services.
+You can buy anything by using Bitcoins, even you can make online purchases and complete your transaction by paying as Bitcoins.
+Here are some Benefits of bitcoins:
+1. Freedom
+2. Low Fees
+3. Secure
+How to earn free bitcoins
+There are three methods to earn Bitcoins:
+1.) Mining2.) Trading3.) Working in Faucet Sites
+Bitcoin is an innovative payment network and a new kind of money. Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
+1 BTC= 100,000,000 Satoshi
+The satoshi is currently the smallest unit of the bitcoin currency recorded on the block chain. It is a one hundred millionth of a single bitcoin (0.00000001 BTC). The unit has been named in collective homage to the original creator of Bitcoin, Satoshi Nakamoto.
+And as per now current value of BTC is :-
+1 BTC = 16701.01 US Dollar OR 1075374.67 Indian Rupee
+You can see how much valuable is this. I guess till now you have got a bit of knowledge about what BTC is and what is its value. Now let’s move to other part of the topic ie.
+How can I earn BTC ?
+Although there different ways to earn BTC but all of them can’t be done without any investment we need less or more investment in almost everyone except in those where we can earn BTC through some website by making an account there.
+Before I start let me show you my earning proof:
+This is my Block Chain Wallet
+This is my Nano Hash account……………
+
+
+Is Bitcoin real or fake?
+The Bitcoin: A Fake or the Currency of the Future?
+The word “cryptocurrency” seems to make people a bit nervous, but that’s the new category that Bitcoin falls into. Did you just shudder? Don’t. It’s true that there’s a certain dark overtone to a word that connects “crypt” with “currency,” but remember the “crypto” root comes from the Greek word for “hidden.” Bitcoin originates in mathematical puzzles, after all.
+What should you know about Bitcoin?
+So in short, is Bitcoin here to stay? We have no idea. What we do know is that Bitcoin is far more than digital Monopoly money. Its core seeks to satisfy what some argue is a flaw in contemporary banking as we know it. Is it the right answer to the right question? It’s hard to say.
+As for us, we’re staying tuned. Cryptocurrency or not, Bitcoin has a lot of believers and a very active development community. There are certainly a lot of possibilities for its future.
+These days people are taking workshops on Bitcoin.To know more about this. Please contact the following:
+9015266266
+
+
+Is it too late to invest in bitcoin? Is it a bubble?
+The whole purpose of the invention of Bitcoin was to have a currency free from the government and banks.
+Do you know what was the reason of the 2008 market crash?
+Irregularities and corruptions in the banking system. Banks had given loan to everyone without checking their credit history and failed to recover even the original amount.
+The global market crash started on September 29, 2008 and the initial Bitcoin paper was proposed on 31st October 2008.
+Can you see the pattern here?
+And I repeat again, “Initial Purpose of Bitcoin was to have a currency free from banks and governments”
+Now suppose we are sitting in a class, right next to each other.
+I have a pen and I gave it to you.
+Do we need a third person to help us make this transfer? Will you ask the teacher to take the pen from me and give it to you?
+Maybe, we’ll need someone to keep the track of “who is the owner of the pen now?” but we don’t need anyone to make the transfer.
+We don’t need banks to transfer our wealth(Now you know why banks and financial gurus hate Bitcoin).
+Pretty much that’s the concept of Bitcoin in layman's terms.
+We can have at most 21 Million Bitcoins in the world, we can’t produce more than that.
+Also, Bitcoin mining becomes hard with production of every new Bitcoin, hence we can’t mine all the Bitcoin at once, which means Bitcoin’s supply is limited and production is regulated.
+With more people getting exposed to Bitcoin and its whopping return, demand is increasing.
+“High demand and low supply” will obviously increase the price.
+Just like, prices of gold and land have increased over the time.
+You can’t buy or invest in land or gold with as little as $10 but you can get started with Bitcoin with as little as $1- $5.
+Bitcoin is easily accessible hence more people are getting into it, increasing the demand and hence price is touching all time high every next day.
+The problem with Bitcoin is, it doesn’t have any intrinsic value.
+When you buy stocks, you get shares in the company. when you buy gold, you get the real physical gold that you can touch and same with other investments.
+But Bitcoin is all computer code (virtual currency).
+Now to answer you question…
+Is Bitcoin a bubble?
+I don’t care, I’ve used it as a currency to buy domains and servers from NameCheap, I have converted it into cash and I have used it as investment.
+I didn’t invest my whole fortune on it, as long as I can make even $1 more on my original investment from Bitcoin, I’m in profit!
+Be it bubble or not, it is making money for me and lots of people who took the risk(high risk, high reward is probably the first rule of any investment).
+Mostly, people who missed the opportunity and financial experts are calling it a bubble.
+I’m not an expert but I’m a computer engineer and I can also read balance sheets, calculate P/E ratios, compare book value to market value and all sorts of technical and value analysis, I know what I’m doing.
+I will definitely invest in Bitcoin today, do not let the current price of Bitcoin bother you, check out the yearly return. It is 2081%, at the time of writing this answer.
+Is it too late to invest in bitcoin?
+You don’t have to buy 1 BTC or invest $16k to get started, you can start with the amount you can afford to lose.
+Say, you invest $100 and if Bitcoin repeats its yearly return you’ll have 2081% ROI(most probably it will exceed this figure).
+Also, can you see any big crash in the above graph? It is the trader who loses money, they want to get rich by next week.
+No body has ever lost money by holding Bitcoins :)
+Again, Invest the amount you can afford to lose.
+If you want to learn more about “where to buy Bitcoin?”, “How to choose a wallet?”
+check my blog post on the same Let’s talk about Bitcoin by Manish Bhattacharya on !deapad .
+Edit 1: If you want to play it safe, invest $100 and wait till your investment surpass $100 (ideally double) take out the original $100 and you’ll have Bitcoin for free :) How cool is that?
+chart source: Coinbase
+
+
+Why is the bitcoin price going down?
+The reason why Bitcoin falls is because its intrinsic value is lower than it’s actual price.
+The same thing happened during the housing crisis of 2008, the stock market crash of 1929 and even the Tulip Bubble in 17th century Holland.
+In each case, the value of the assets were much lower than the market price. Then the prices adjusted once people realized they were over-paying. We may see the odd bounce on BitCoin if there is a perceived temporary scarcity, but in the end, it is worthless.
+The value of any asset (shares, BitCoin, houses, tulips, cash) is precisely what we, as a society, agree it is.
+For example, if I am selling my house, and put it on the market for $150K, and you buy it for $150K, then it is worth $150K. If you feel it is worth less than that, you will put in a lower offer. If I accept that lower amount, then it is worth that lower amount. Simple.
+Here are some indicators that a bubble is about to burst…
+
+
+How do I buy Bitcoins?
+Buying Bitcoin in India is very easy as there are many Indian exchanges like Unocoin , zebpay, coinsecure etc. You may buy Bitcoins though different traders also, but I would recommend buying through koinex. Here you can transact Bitcoin(BTC), Ether(ETH), XRP, LiteCoin(LTC), Bitcoin Cash(BCH) directly with INR.
+Koinex is also planning to provide trading on Golem(GNT), OmiseGO(OMG) and IOTA(MOITA).
+It is very simple to start with Koinex, because they have already provided some videos about sign up, KYC process, deposit and withdraw of crypto, to place order and sell it, to withdraw money and they also have SUPPORT TICKET to raised concern/issue or any kind of help.
+Once you create an account on Koinex, the next required step was to complete the KYC. That was easily done – by submitting a government document such as PAN card, Aadhar card, passport, driving license or any other and Bank account details. After complete verification, you can trade.
+You can deposit money by NEFT, RTGS, IMPS. You can also deposit funds using wallets such as PayUMoney, Airtel Money, JioMoney, OlaMoney, PayZapp and others. Depositing funds via a payment gateway will incur a cost of 2% as service fees.
+Security:
+When it comes to security, you need to be extra cautious when using cryptocurrency exchange.Koinex offers all latest security measures, and one should enable the 2-factor authentication (2FA) using the Google authenticator app. They allow 2FA using SMS and email, but you should only use the Google authenticator feature. For the password management, you should use Dashlane and a unique password.
+You can enable or disable any settings by going to Profile > Security page.
+Pros of Koinex:
+Cons of koinex:
+It is still in beta, and the platform is maturing. The interface is friendly, and I have not encountered any bugs in my limited usage of Koinex. However, the missing feature of not showing real-time calculation of buying and selling cost is a big hurdle. Apart from this, I see Koinex as a strong contender of being in the top Bitcoin and cryptocurrency exchanges in India.
+If you want to start with Koinex, Join Koinex ( You will get INR 50 cash reward instantly).
+Thanks for reading.Happy investingCheers!
+
+
+Is Bitcoin legal? Don't countries have laws against creating currencies?
+
+
